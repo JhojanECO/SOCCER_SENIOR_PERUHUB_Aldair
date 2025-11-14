@@ -133,15 +133,8 @@
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src/BluetoothSerial.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_gap_bt_api.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_bt_defs.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/bt/host/bluedroid/api/include/api/esp_spp_api.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src/BTScan.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src/BTAddress.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src/BTAdvertisedDevice.h \
+ .pio/libdeps/esp32dev/ps5Controller/src/ps5Controller.h \
+ .pio/libdeps/esp32dev/ps5Controller/src/ps5.h src/motors.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/mcpwm.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/mcpwm_types.h \
- C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_task_wdt.h \
- src/motors.h src/turbine.h
+ src/parameters.h src/turbine.h

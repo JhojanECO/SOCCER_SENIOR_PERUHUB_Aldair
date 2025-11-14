@@ -20,6 +20,7 @@
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/gpio_types.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp32/rom/gpio.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/mcpwm_types.h \
+ src/parameters.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp_arduino_version.h \
  C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/FreeRTOS.h \

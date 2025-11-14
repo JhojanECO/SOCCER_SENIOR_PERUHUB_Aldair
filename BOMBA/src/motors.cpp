@@ -4,8 +4,8 @@
 
 namespace {
 float clamp_duty(float duty) {
-  if (duty > DUTY_TURN) return DUTY_TURN;
-  if (duty < -DUTY_TURN) return -DUTY_TURN;
+  if (duty > params::motor_cmd_max) return params::motor_cmd_max;
+  if (duty < -params::motor_cmd_max) return -params::motor_cmd_max;
   return duty;
 }
 
@@ -62,12 +62,10 @@ void motors_init() {
 }
 
 void motores(float izquierdo, float derecho) {
-  Serial.printf("Motores L: %.1f R: %.1f\n", izquierdo, derecho);
   apply_motor(MCPWM_UNIT_0, MCPWM_TIMER_0, izquierdo, LEFT_INVERTED);
   apply_motor(MCPWM_UNIT_1, MCPWM_TIMER_1, derecho, RIGHT_INVERTED);
 }
 
 void detener() {
-  Serial.println("Motores detenidos");
   motores(0.0f, 0.0f);
 }
