@@ -11,6 +11,6 @@ inline constexpr float steer_gain = 0.7f;// si es mayor tiende a girar mas rapid
 inline constexpr int stick_deadzone = 12;
 inline constexpr int trigger_deadzone = 3;
 inline constexpr float slew_step = 4.0f;
-inline constexpr uint32_t timeout_ms = 5000;
+inline constexpr uint32_t timeout_ms = 4500;
 
 }  // namespace params

@@ -8,8 +8,8 @@
       "browse": {
         "limitSymbolsToIncludedHeaders": true,
         "path": [
-          "C:/Users/JHOJAN/Documents/PlatformIO/Projects/SOCCER_SENIOR_PERUHUB_Jhojan/src",
-          "C:/Users/JHOJAN/Documents/PlatformIO/Projects/SOCCER_SENIOR_PERUHUB_Jhojan/.pio/libdeps/esp32dev/ps5Controller/src",
+          "C:/Users/JHOJAN/Documents/PlatformIO/Projects/SOCCER_SENIOR_PERUHUB_Aldair/src",
+          "C:/Users/JHOJAN/Documents/PlatformIO/Projects/SOCCER_SENIOR_PERUHUB_Aldair/.pio/libdeps/esp32dev/ps5Controller/src",
           "C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
           "C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
           "C:/Users/JHOJAN/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
